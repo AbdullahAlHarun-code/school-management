@@ -301,9 +301,9 @@ class FeeSetAdmin(admin.ModelAdmin):
 
 admin.site.register(FeeSet, FeeSetAdmin)
 
-admin.site.site_header = "School Management"
-admin.site.site_title = "School Management Admin Portal"
-admin.site.index_title = "Welcome to School Management Admin Portal"
+admin.site.site_header = "Darsana DS Fazil Madrasah"
+admin.site.site_title = "Darsana DS Fazil MadrasahAdmin Portal"
+admin.site.index_title = "Welcome to Darsana DS Fazil Madrasah Admin Portal"
 
 
 # from .faker_fees import generate_fake_fees
